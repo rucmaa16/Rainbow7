@@ -10,3 +10,7 @@ item.shotgun.name=Shotgun
 item.sledgehammer.name=Sledgehammer
 item.magazine.name=Magazine
 item.bullet.name=Bullet
+item.lord_helmet.name=Lord Helmet
+item.lord_chestplate.name=Lord Chestplate
+item.lord_leggings.name=Lord Leggings
+item.lord_boots.name=Lord Boots

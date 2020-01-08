@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-01-08 20:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-01-08 20:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-01-08 20:24:31 +0100",
+      "diamond_helmet": "2020-01-08 20:24:31 +0100",
+      "diamond_chestplate": "2020-01-08 20:24:31 +0100",
+      "diamond_boots": "2020-01-08 20:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-01-08 20:24:31 +0100"
+    },
+    "done": false
+  }
+}
