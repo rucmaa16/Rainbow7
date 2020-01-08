@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "rainbow:lauf"
+    },
+    "b": {
+      "item": "rainbow:schiene"
+    },
+    "c": {
+      "item": "rainbow:schaft"
+    },
+    "d": {
+      "item": "rainbow:griff"
+    },
+    "e": {
+      "item": "rainbow:magazine"
+    }
+  },
+  "result":  {
+    "item": "rainbow:tommygun",
+    "count": 1
+  }
+}

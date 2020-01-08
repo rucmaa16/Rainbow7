@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d01b4af6-cede-4e1a-8785-cbb2c355e1c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Rainbow7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/advancements/cc8f980e-8ea7-381a-8715-01149d418cfb.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/advancements/cc8f980e-8ea7-381a-8715-01149d418cfb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/advancements/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/advancements/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/cc8f980e-8ea7-381a-8715-01149d418cfb.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/cc8f980e-8ea7-381a-8715-01149d418cfb.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/stats/cc8f980e-8ea7-381a-8715-01149d418cfb.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/stats/cc8f980e-8ea7-381a-8715-01149d418cfb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/stats/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/stats/fe4bc08c-19e6-3b63-ba18-653e7a90e84a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/CommonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/CommonProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/ServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/kaindorf/rainbow/proxy/ServerProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rainbow/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rainbow/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/magazine.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/magazine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/pistol.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/pistol.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/tommygun.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/rainbow/models/item/tommygun.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/rainbow/recipes/magazine.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainbow7" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainbow7" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainbow7" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UEvxYQiHffviRUEetzTSjGWi2k" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/rainbow/recipes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Schule_2019_2020\GAMES\Rainbow7\src\main\resources\assets\rainbow\recipes" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="at.kaindorf.rainbow.items" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Schule_2019_2020\GAMES\Rainbow7\src\main\resources\assets\rainbow\textures\items" />
+      <recent name="D:\Schule_2019_2020\GAMES\Rainbow7\src\main\resources\assets\rainbow\textures\block" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Rainbow7 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Rainbow7 [runClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d01b4af6-cede-4e1a-8785-cbb2c355e1c5" name="Default Changelist" comment="" />
+      <created>1574934815394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574934815394</updated>
+      <workItem from="1574934816610" duration="5329000" />
+      <workItem from="1575538855570" duration="3384000" />
+      <workItem from="1576143814902" duration="4966000" />
+      <workItem from="1578400295017" duration="598000" />
+      <workItem from="1578478254367" duration="88000" />
+      <workItem from="1578479943067" duration="237000" />
+      <workItem from="1578498681914" duration="6116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="728" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578501826185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578501826185" />
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1578504632377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578504632377" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1578504632377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578504632377" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1578504632377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578504632377" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1578504632377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578504632377" />
+  </component>
+</project>

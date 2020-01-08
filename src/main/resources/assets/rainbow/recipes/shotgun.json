@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bb ",
+    "aac",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "rainbow:lauf"
+    },
+    "b": {
+      "item": "rainbow:schiene"
+    },
+    "c": {
+      "item": "rainbow:schaft"
+    },
+    "e": {
+      "item": "rainbow:magazine"
+    }
+  },
+  "result":  {
+    "item": "rainbow:shotgun",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+},
+{
+  "modid": "demomod",
+  "name": "my first mod",
+  "description": "mod for test cases",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ImNotItachi"],
+  "credits": "Thanks to everybody",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
