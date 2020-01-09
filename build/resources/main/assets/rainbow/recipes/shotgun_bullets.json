@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "G",
+    "i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":  {
+    "item": "rainbow:shotgun_bullets",
+    "count": 1
+  }
+}

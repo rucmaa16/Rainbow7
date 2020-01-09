@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal" : { "model": "rainbow:block_copper"}
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rainbow:blocks/copper_ore"
+  }
+}

@@ -1,0 +1,38 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  },
+  {
+   "item": "rainbow:ingot_copper"
+  }
+ ],
+ "result":
+ {
+  "item": "rainbow:block_copper",
+  "count": 1
+ }
+}
+

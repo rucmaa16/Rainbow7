@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rainbow:block_copper"
+    }
+  ],
+  "result":
+  {
+    "item": "rainbow:ingot_copper",
+    "count": 9
+  }
+}

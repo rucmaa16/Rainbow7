@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "iii",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "item": "rainbow:ingot_copper"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "rainbow:copper_pickaxe",
+    "count": 1
+  }
+}
+
