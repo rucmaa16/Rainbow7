@@ -9,8 +9,10 @@ import at.kaindorf.rainbow.items.WeaponItem;
 import at.kaindorf.rainbow.items.shotgun;
 import at.kaindorf.rainbow.items.tools.ToolSledgeHammer;
 import at.kaindorf.rainbow.objects.ArmorBase;
+import at.kaindorf.rainbow.tabs.WeaponTab;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
@@ -30,6 +32,8 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 @Mod.EventBusSubscriber(modid = Rainbow.MODID)
 public class CommonProxy {
 
+
+    public static final CreativeTabs weapontab = new WeaponTab("weapontab");
 
     public static Item VECTOR = new BurstRifle("vector");
     public static Item VECTOR1 = new VectorE("pistol");

@@ -1,7 +1,6 @@
 package at.kaindorf.rainbow.init;
 
-import at.kaindorf.rainbow.items.GunItem;
-import at.kaindorf.rainbow.items.WeaponItem;
+
 import at.kaindorf.rainbow.items.tools.ToolPickaxe;
 import at.kaindorf.rainbow.items.tools.ToolSword;
 import at.kaindorf.rainbow.objects.ItemBase;

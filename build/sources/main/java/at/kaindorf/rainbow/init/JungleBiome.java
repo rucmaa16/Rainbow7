@@ -13,7 +13,6 @@ public class JungleBiome extends Biome {
             this.decorator.flowersPerChunk = 100;
             this.decorator.grassPerChunk = 100;
             this.topBlock = Blocks.OBSIDIAN.getDefaultState();
-            this.fillerBlock = Blocks.PACKED_ICE.getDefaultState();
             this.spawnableMonsterList.clear();
             this.spawnableCreatureList.clear();
             this.spawnableCreatureList.add(new SpawnListEntry(EntityCow.class, 10, 50, 100));

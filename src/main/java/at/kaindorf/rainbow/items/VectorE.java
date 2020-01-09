@@ -1,5 +1,6 @@
 package at.kaindorf.rainbow.items;
 
+import at.kaindorf.rainbow.proxy.CommonProxy;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.entity.EntityLivingBase;
@@ -25,7 +26,7 @@ public class VectorE extends Item {
         setRegistryName(name);
         this.maxStackSize = 1;
         this.setMaxDamage(20);
-        this.setCreativeTab(CreativeTabs.COMBAT);
+        setCreativeTab(CommonProxy.weapontab);
         this.addPropertyOverride(new ResourceLocation("pull"), new IItemPropertyGetter() {
             @SideOnly(Side.CLIENT)
             public float apply(ItemStack stack, @Nullable World worldIn, @Nullable EntityLivingBase entityIn) {
